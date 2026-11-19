@@ -15,9 +15,9 @@ Department: Computer Science and Engineering (CSE)
 Section: CSE - G
 Academic Year: 2026–2027
 
-1 Theshna R (Team Leader)RA2511003050414
-2 Divya Darshini V RA2511003050411
-3 Dhanishaa RA2511003050416
+Theshna R(Team Leader)RA2511003050414
+Divya Darshini V RA2511003050411
+Dhanishaa RA2511003050416
 
 Mentor Details
 
