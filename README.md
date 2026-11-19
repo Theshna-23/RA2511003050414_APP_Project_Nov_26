@@ -6,8 +6,8 @@ Meal Matrix is a smart global recipe and food analysis platform that helps users
 
 Course Details
 
-Course ID: 21CSC203P
-Course Name: Advanced Programming Practice
+Course ID:21CSC203P
+Course Name:Advanced Programming Practice
 
 Team Members' Details
 
@@ -15,9 +15,9 @@ Department: Computer Science and Engineering (CSE)
 Section: CSE - G
 Academic Year: 2026–2027
 
-1 Theshna R (Team Leader)| RA2511003050414
-2 Divya Darshini V| RA2511003050411
-3 Dhanishaa V| RA2511003050416
+1 Theshna R (Team Leader)RA2511003050414
+2 Divya Darshini V RA2511003050411
+3 Dhanishaa RA2511003050416
 
 Mentor Details
 
